@@ -1,15 +1,1 @@
-# aqa-code
-Код с лекций Автоматизация тестирования
-[![Build status](https://ci.appveyor.com/api/projects/status/or3awgsp1ib5nknn/branch/master?svg=true)](https://ci.appveyor.com/project/Kislitsina-Maria/api/branch/master)
-
-1. [x] [Основы автоматизации](basics/)
-1. [x] [Тестирование API, CI](api-ci/)
-1. [x] [Тестирование веб-интерфейсов](web/)
-1. [x] [Selenide](selenide/)
-1. [x] [Patterns](patterns/)
-1. [x] [BDD](bdd/)
-1. [X] [Docker](docker/)
-1. [x] [SQL](sql/)
-1. [x] [Reporting](reporting/)
-1. [ ] [Summary](summary/)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/t10goili1p5dqf37?svg=true)](https://ci.appveyor.com/project/MorevIgor/demo1)
